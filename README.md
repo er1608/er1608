@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoa</h1>
-<h3 align="center">an embedded systems engineer passionate about low-level software, operating systems, and communication layers. I enjoy building reliable platforms beyond UAVs and robotics, while also applying my background in control and automation to connect embedded programming with intelligent, real-world systems.</h3>
+<h3 align="center">I'm an embedded systems engineer passionate about low-level software, operating systems, and communication layers. I enjoy building reliable platforms beyond UAVs and robotics, while also applying my background in control and automation to connect embedded programming with intelligent, real-world systems.</h3>
 
 - 🔭 I’m currently working on **UAV**
 
