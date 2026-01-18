@@ -30,11 +30,6 @@ to build reliable and scalable embedded systems.
 
 - 📫 How to reach me **khoatran16082003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khoatran1608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoatran1608" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages & Tools</h3>
 
 <b>• Programming & Scripting</b>
